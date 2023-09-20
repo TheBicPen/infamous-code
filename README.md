@@ -14,6 +14,7 @@ A list of PRs, commits, or other code fragments that are well known within the s
 | [AmogOS 4f503a0](https://github.com/Amog-OS/AmogOS/commit/4f503a0)                      | Fake commit from Linus Torvalds. Meme-y language used.                                                                                                                                                                                        |
 | [Signup#24](https://github.com/EpicGames/Signup/pull/24)                                | PR contributed almost nothing, pinged a group with nearly 400k members. The repo had to be immediately locked down, and the group dissolved. [Video with details](https://www.youtube.com/watch?v=NCvnLFF7IYM)                                |
 | [mpv-player 1e70e82baa91](https://github.com/mpv-player/mpv/commit/1e70e82baa91)        | Unhinged rant in commit description.                                                                                                                                                                                                          |
+| [Hyprland#3209](https://github.com/hyprwm/Hyprland/issues/3209)        | Extremely negative community reaction to someone requesting a code of conduct be added.                                                                                                                                                                                                          |
 
 
 ## Infamous StackOverflow Posts
