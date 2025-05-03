@@ -21,3 +21,9 @@
   - Format descriptions as sentences
   - 1 link providing more information is acceptable
     - Link title should accurately describe the content at the link
+
+## Scripts to add new items:
+- GitHub issue: `gh issue view -R OWNER/REPO NUMBER --json 'createdAt,number,title,url'`
+  - This should get you the information you need to fill in the item metadata
+  - Of course you should read the comments and description to figure out why
+    this issue is infamous!
